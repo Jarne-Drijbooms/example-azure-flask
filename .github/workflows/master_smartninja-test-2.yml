@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'smartninja-test-2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0081BFA8C21D4E6FB901E90BABAE1C99 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_72F5431A793B40F39CE72E28605F6B1D }}
